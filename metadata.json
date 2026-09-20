@@ -1,0 +1,8 @@
+{
+  "name": "ANUBHART STUDIO",
+  "description": "ANUBHART STUDIO - Premier Fine Art Gallery & Custom Art Commissions with AES-256-GCM Military-Grade Encrypted Vault, Real-time Order Tracking, and Active Cyber Defense Matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
